@@ -1,0 +1,12 @@
+python-dotenv
+google-genai
+soundfile
+librosa
+numpy
+faster-whisper
+demucs
+sox
+onnxruntime
+einops
+transformers==4.57.3
+accelerate==1.12.0

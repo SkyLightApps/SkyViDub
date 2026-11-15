@@ -1,0 +1,22 @@
+[
+  {
+    "name": "academic_en",
+    "ref_audio": "voices/academic_en.wav",
+    "ref_text": "Artificial intelligence opens new frontiers for global education and science, making knowledge accessible across any language barrier."
+  },
+  {
+    "name": "narrator_studio",
+    "ref_audio": "voices/narrator_studio.wav",
+    "ref_text": "Modern neural networks allow us to preserve speaker identity and natural prosody during automatic video localization."
+  },
+  {
+    "name": "presenter_female",
+    "ref_audio": "voices/presenter_female.wav",
+    "ref_text": "Welcome to our university lecture series on deep learning, speech recognition, and multimodal signal processing."
+  },
+  {
+    "name": "documentary_pro",
+    "ref_audio": "voices/documentary_pro.wav",
+    "ref_text": "Every scientific discovery begins with a bold hypothesis and rigorous experimental verification."
+  }
+]
